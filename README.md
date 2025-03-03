@@ -1,4 +1,4 @@
-# Sales Trial Performance Evaluation
+# Store Trial Performance Evaluation: Control vs. Trial Analysis
 
 ## Project Overview
 This project evaluates a **store trial conducted in stores 77, 86, and 88** by comparing them with a **control store (224)**. The goal is to determine if the trial had a significant impact on sales performance and to identify the key drivers of change, such as:  
