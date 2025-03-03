@@ -9,6 +9,10 @@ This project evaluates a **store trial conducted in stores 77, 86, and 88** by c
 
 To ensure valid comparisons, **Pearson correlation** and **magnitude distance metrics** are used to find the best-matching control stores.
 
+## Results:
+
+![image](https://github.com/user-attachments/assets/c29feb80-2625-4bf9-beca-2c76920875e8)
+
 ---
 
 ## Data Source
