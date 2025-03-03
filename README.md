@@ -59,4 +59,4 @@ The evaluation considers **monthly sales experience** of each store based on:
 ---
 
 ### Contributions & Issues 
-Feel free to **fork, contribute, or report issues** to improve this project! 🚀  
+Feel free to **fork, contribute, or report issues** to improve this project!
